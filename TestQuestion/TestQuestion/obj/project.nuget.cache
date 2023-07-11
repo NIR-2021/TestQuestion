@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IIwpFJ6pyKsqeD/r8hNq0y4XWxr5Q/TRh883tG8OCiM84vn3FT/viMzz5LIuOI1GfV5uZlPO9ND4nSv3WOF3ww==",
+  "success": true,
+  "projectFilePath": "C:\\Nirbheek\\Nirbheek\\Programs\\VIsual Studio\\TestQuestionM2\\TestQuestion\\TestQuestion\\TestQuestion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nirbh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

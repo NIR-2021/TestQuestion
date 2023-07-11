@@ -1,0 +1,9 @@
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\TestQuestionM2\TestQuestion\TestQuestion\obj\Release\net6.0\PubTmp\Out\TestQuestion.exe
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\TestQuestionM2\TestQuestion\TestQuestion\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\TestQuestionM2\TestQuestion\TestQuestion\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\TestQuestionM2\TestQuestion\TestQuestion\obj\Release\net6.0\PubTmp\Out\libman.json
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\TestQuestionM2\TestQuestion\TestQuestion\obj\Release\net6.0\PubTmp\Out\TestQuestion.dll
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\TestQuestionM2\TestQuestion\TestQuestion\obj\Release\net6.0\PubTmp\Out\TestQuestion.deps.json
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\TestQuestionM2\TestQuestion\TestQuestion\obj\Release\net6.0\PubTmp\Out\TestQuestion.runtimeconfig.json
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\TestQuestionM2\TestQuestion\TestQuestion\obj\Release\net6.0\PubTmp\Out\TestQuestion.pdb
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\TestQuestionM2\TestQuestion\TestQuestion\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
